@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 <b>nn<b>
+=======
+<b>  Im The King<b>
+>>>>>>> aa275934f7c1b7b4f5c9fdf42846fde2f74f4556
